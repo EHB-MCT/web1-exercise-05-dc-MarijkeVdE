@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    margin-top: 40px;
+    font-family: sans-serif;
+}
+h1{
+    color: #0282F9;
+    font-size: 40px;
+}
+
+.wrapper{
+width: 920px;
+margin: 0 auto;
+}
+
+.featured{
+    width: 100%;
+    position: relative;
+    float: left;
+    margin-bottom: 50px;
+}
+
+.item{
+    position: relative;
+    float: left;
+}
+
+.wonderwoman{
+    margin-left: 20px;
+}
+
+.whoswho{
+    width: 100%;
+    position: relative;
+    float: left;
+    margin-bottom: 50px
+}
+
+.superman{
+    margin-left: 0px;
+}
+
+.batman{
+    margin-left: 0px;
+}
+
+.wonderwoman2{
+    margin-left: 0px;
+}
+
+.greenlantern{
+    margin-left: 0px;
+}
+
+.flash{
+    margin-left: 0px;
+}
